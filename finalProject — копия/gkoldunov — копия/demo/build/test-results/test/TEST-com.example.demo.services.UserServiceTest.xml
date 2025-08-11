@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.services.UserServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-18T23:02:05.054Z" hostname="Noutbuk-Grigorij.local" time="0.015">
+  <properties/>
+  <testcase name="updateToken_ShouldThrowWhenUserNotFound()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="findByToken_ShouldReturnUser()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="authenticate_ShouldReturnUserWhenCredentialsMatch()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="addUser_ShouldThrowWhenLoginExists()" classname="com.example.demo.services.UserServiceTest" time="0.003"/>
+  <testcase name="deleteUser_ShouldCallRepository()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="authenticate_ShouldThrowWhenUserNotFound()" classname="com.example.demo.services.UserServiceTest" time="0.002"/>
+  <testcase name="authenticate_ShouldThrowWhenPasswordIncorrect()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="updateToken_ShouldUpdateToken()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <testcase name="addUser_ShouldSaveNewUser()" classname="com.example.demo.services.UserServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

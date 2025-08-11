@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.services.BookServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-05-18T23:02:04.864Z" hostname="Noutbuk-Grigorij.local" time="0.189">
+  <properties/>
+  <testcase name="searchByAuthor_ShouldReturnMatchingBooks()" classname="com.example.demo.services.BookServiceTest" time="0.177"/>
+  <testcase name="findBooksByScoreRange_ShouldReturnBooksInRange()" classname="com.example.demo.services.BookServiceTest" time="0.002"/>
+  <testcase name="searchByTitle_ShouldReturnMatchingBooks()" classname="com.example.demo.services.BookServiceTest" time="0.002"/>
+  <testcase name="getUserBooks_ShouldReturnUserBooks()" classname="com.example.demo.services.BookServiceTest" time="0.002"/>
+  <testcase name="findById_ShouldThrowExceptionWhenBookNotFound()" classname="com.example.demo.services.BookServiceTest" time="0.002"/>
+  <testcase name="findBooksByScoreRange_ShouldThrowExceptionForInvalidRange()" classname="com.example.demo.services.BookServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
